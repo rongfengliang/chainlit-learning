@@ -2,6 +2,12 @@
 
 ## Running
 
+* install deps
+
+```code
+pip install aiosqlite SQLAlchemy aiohttp boto3
+```
+
 * init db (sqlite)
 
 deploy.sql
